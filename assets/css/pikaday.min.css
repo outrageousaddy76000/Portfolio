@@ -1,6 +1,10 @@
 /* !
  * Pikaday
  * Copyright © 2014 David Bushell | BSD & MIT license | http://dbushell.com/ */
+body{
+  user-select: none;
+}
+
 
 .pika-single {
   z-index: 9999;
